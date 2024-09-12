@@ -38,7 +38,9 @@ body {
   font-weight: 700;
   color: #373a3c;
 }
-
+.img-fluid {
+  height: 2em;
+}
 @media (max-width: 768px) {
   #Contacto form label {
     font-weight: 400;
